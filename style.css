@@ -16,5 +16,17 @@ h1{
 .ciao{
    color: black;
    background-color: black;
-   
+
+}
+
+p{
+  color: red;
+}
+
+h1::selection{
+  background-color: yellow;
+}
+
+p::selection{
+  background-color: blue;
 }

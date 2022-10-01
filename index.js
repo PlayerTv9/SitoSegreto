@@ -19,3 +19,9 @@ function supersegretissima() {
 	window.open("https://www.youtube.com/watch?v=RvY5ploo1OI", "_blank")
 
 }
+
+function Berlusconi(){
+	window.open("https://www.youtube.com/watch?v=iZ5xzkU7HGg", "_blank")
+	window.open("https://www.youtube.com/watch?v=RvY5ploo1OI", "_blank")
+
+}
